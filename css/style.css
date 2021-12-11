@@ -5,7 +5,7 @@ body {
     margin-right: 300px;
     margin-left: 300px;
     background: hsl(204 100% 5%);
-    background-image: url(/Users/karinsong/Desktop/github-site/karin20-newschool.github.io/images/34.png);
+    background-image: url(../images/34.png);
     color: white;
     min-block-size: 200vh;
     box-sizing: border-box;
